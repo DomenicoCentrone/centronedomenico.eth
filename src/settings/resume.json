@@ -1,58 +1,52 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
-        "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "name": "Dome Centrone",
+        "label": "Blockchain Developer",
+        "email": "domenico.cen21@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
         "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "job": "Blockchain dev",
+        "description": "Hey, I'm Jo Lienhoop, a Developer based in Italy. I love all things technical. Talk soon!",
+        "summary": "based in Bremen, Italy.",
+        "keywords": "personal,solidity,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,italy,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://centronedomenico.it",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "Italy",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "Italy"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "username": "domenico.cen21@gmail.com",
+                "url": "mailto:domenico.cen21@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "username": "DomenicoCentrone",
+                "url": "https://www.linkedin.com/in/centronedomenico/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "username": "DinebuciCebtribe",
+                "url": "https://github.com/DomenicoCentrone",
                 "x_icon": "fab fa-github"
             },
             {
-                "network": "GitLab",
-                "username": "johoop",
-                "url": "https://gitlab.com/JoHoop",
-                "x_icon": "fab fa-gitlab"
-            },
-            {
                 "network": "Telegram",
-                "username": "jolienhoop",
-                "url": "https://t.me/jolienhoop",
+                "username": "r00seth",
+                "url": "https://t.me/r00seth",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "Jo#4467",
+                "username": "0xRoos#2871",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
