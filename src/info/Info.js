@@ -23,21 +23,21 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    firstName: " Domenico",
+    lastName: "Centrone",
+    initials: "JS", // the example uses first and last, but feel free to use three or more if you like.
+    position: "a Blockchain Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '',
+            text: 'In love with knowledge'
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'Based in IT'
         },
         {
             emoji: "💼",
@@ -45,39 +45,27 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "domenico.cen21@gmail.com"
         }
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook'
-        },
-        {
-            link: "https://instagram.com",
-            icon: 'fa fa-instagram'
-        },
-        {
-            link: "https://github.com",
+            link: "https://github.com/DomenicoCentrone",
             icon: "fa fa-github"
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/centronedomenico/",
             icon: "fa fa-linkedin"
-        },
-        {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter"
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "An experienced developer with strong leadership and relationship-building skills. Blockchain developer familiar with Ethereum and Polygon for creating decentralized blockchain applications. I have helped several NFTs projects develop in the best possible way by building websites with ReactJs, dApps and Smart Contracts. I've also conducted audits and provided consulting services on how to implement blockchain technology in projects. And above all I love to develop beautiful ideas",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['solidity','javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma','nodejs'],
+            exposedTo: ['python', 'canva']
         }
     ,
     hobbies: [
